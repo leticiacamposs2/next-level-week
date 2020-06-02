@@ -6,6 +6,7 @@
 ### Next Level Week:
 
 - [1° Dia: Conceitos e ambiente](#1-dia-conceitos-e-ambiente)
+- [2º Dia: Back-end da aplicação](#2-dia-back-end-aplicacao)
 
 ----
 
@@ -23,5 +24,20 @@
 - [x] React & SPA
 - [x] Criando projeto ReactJS
 - [x] React Native & Expo
+
+----
+
+<div id="1-dia-back-end-aplicacao">
+
+### 2º Dia: Back-end da aplicação
+
+- [x] Entendendo conceitos > Rotas e recursos, Métodos HTTP, Tipos de parâmetros
+- [x] Utilizando o insomnia
+- [x] Qual banco de dados vamos utilizar?
+- [x] Configurando conexão com o banco
+- [x] Identificando entidades da aplicação
+- [x] Funcionalidades da aplicação
+- [x] Construção do app
+- [x] Adicionando CORS
 
 
