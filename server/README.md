@@ -1,4 +1,7 @@
 ### Anotações
+---
+
+#### HTTP
 
 - Rota: Endereço completo da requisição
 - Recursos: Qual entidade estamos acessando do sistema
@@ -18,3 +21,11 @@
 
 - SELECT * FROM users WHERE name = 'Leticia'
 - knex('users').where('name', 'Leticia').select(*)
+
+----
+
+#### Banco de dados
+
+- Migrations = Histórico do banco de dados
+- create table points
+- create table users

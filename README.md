@@ -27,7 +27,7 @@
 
 ----
 
-<div id="1-dia-back-end-aplicacao">
+<div id="2-dia-back-end-aplicacao">
 
 ### 2º Dia: Back-end da aplicação
 
@@ -37,6 +37,10 @@
 - [x] Configurando conexão com o banco
 - [x] Identificando entidades da aplicação
 - [x] Funcionalidades da aplicação
+    > Points (pontos de coleta) > image, name, email, whatsapp, latitude, longitude, city, uf
+    > Itens (itens para coleta) > image, title
+    > Point _Itens (relacionamento dos itens com um ponto de coleta) > point_id, item_id
+    > Muitos para Muitos (N-N) (Pivot)
 - [x] Construção do app
 - [x] Adicionando CORS
 
