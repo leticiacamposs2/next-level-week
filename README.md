@@ -25,8 +25,9 @@
 
 #### Aulas:
 
-- [1° Dia: Conceitos e ambiente](#1-dia-conceitos-e-ambiente)
+- [1º Dia: Conceitos e ambiente](#1-dia-conceitos-e-ambiente)
 - [2º Dia: Back-end da aplicação](#2-dia-back-end-aplicacao)
+- [3º Dia: Front-end web do app](#3-dia-front-end-aplicacao)
 
 ----
 
@@ -76,4 +77,25 @@
 - [x] Construção do app
 - [x] Adicionando CORS
 
+----
 
+<div id="3-dia-front-end-aplicacao">
+
+### 3º Dia: Front-end web do app
+
+- [x] Limpando estrutura da aplicação
+- [x] Explicando conceitos
+    - index.html e div#root
+    - JSX
+    - Componente (Header)
+    - Propriedade
+    - Estado e imutabilidade
+- [x] Arquivos para Download (Layout, imagens e CSS)
+- [x] Construção do HTML da primeira página
+- [x] Configuração da navegação
+- [x] Construção do HTML do formulário
+- [x] Integrando mapa no formulário
+- [x] Buscando itens de coleta da API
+- [x] Buscando estados e cidades do IBGE
+- [x] Cadastro de ponto de coleta na API
+- [x] Mensagem de sucesso
