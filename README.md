@@ -2,8 +2,6 @@
   <img width="360" height="200" src="./logo.svg">
 </p>
 
-----
-
 <p align="center">
   <img width="260" height="100" src="./rocket.svg">
 </p>
