@@ -97,5 +97,6 @@
 - [x] Integrando mapa no formulário
 - [x] Buscando itens de coleta da API
 - [x] Buscando estados e cidades do IBGE
+- [x] Carregar a localização atual do usuário no mapa
 - [x] Cadastro de ponto de coleta na API
 - [x] Mensagem de sucesso
