@@ -1,14 +1,12 @@
-<div style="text-align:center">
+<p align="center">
+  <img width="360" height="200" src="./logo.svg">
+</p>
 
-![logo-next-level-week](./logo.svg)
+----
 
----
-
-![rocketseat](./rocket.svg)
-
-## 🚀 Next Level Week - Started 
-
-</div>
+<p align="center">
+  <img width="260" height="100" src="./rocket.svg">
+</p>
 
 ----
 
