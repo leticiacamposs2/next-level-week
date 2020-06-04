@@ -23,11 +23,12 @@
 
 ----
 
-#### Aulas:
+#### Conteúdo abordado:
 
 - [1º Dia: Conceitos e ambiente](#1-dia-conceitos-e-ambiente)
 - [2º Dia: Back-end da aplicação](#2-dia-back-end-aplicacao)
 - [3º Dia: Front-end web do app](#3-dia-front-end-aplicacao)
+- [4º Dia: Mobile do app](#4-dia-mobile-do-app)
 
 ----
 
@@ -100,3 +101,24 @@
 - [x] Carregar a localização atual do usuário no mapa
 - [x] Cadastro de ponto de coleta na API
 - [x] Mensagem de sucesso
+
+----
+
+<div id="4-dia-mobile-do-app">
+
+### 4º Dia: Mobile do App
+
+- [x] Instalar Expo CLI
+- [x] Criar projeto com Expo
+- [x] Executando projeto
+- [x] Configurando emulador (caso necessário)
+- [x] Diferenças do React Native para ReactJS
+    - Elementos
+    - Estilização
+- [x] Criando página home
+- [x] Criando página do mapa
+- [x] Buscando items da API
+- [x] Buscando pontos da API
+- [x] Buscando detalhes do ponto da API
+- [x] Busca de UF e cidade
+
